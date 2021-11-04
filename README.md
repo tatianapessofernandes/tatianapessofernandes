@@ -1,6 +1,7 @@
 ## Olá! Sou Tatiana Pessoa Fernandes!
-- 🖥 Migrando de mecânica aviação e designer para tecnologia!
+- 🖥 Migrando de mecânica aviação para tecnologia!
 - 💻 Estudando Engenharia de Software
+- Amo designer!
 - ✈ Migrando da aviação e designer para tecnologia
 - 🖥 Estagiando na Cast Group - Turma de Formação - Dotnet Fullstack
 - 🎹 Toco teclado
