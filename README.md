@@ -1,13 +1,13 @@
 ## Olá! Sou Tatiana Pessoa Fernandes!
-- 🖥 Migrando de mecânica aviação para tecnologia!
+- 🖥  Migrando de mecânica aviação para tecnologia!
 - 💻 Estudando Engenharia de Software
-- Amo designer!
-- ✈ Migrando da aviação e designer para tecnologia
-- 🖥 Estagiando na Cast Group - Turma de Formação - Dotnet Fullstack
+- 💻 Amo designer!
+- ✈  Migrando da aviação e designer para tecnologia
+- 🖥  Estagiando na Cast Group - Turma de Formação - Dotnet Fullstack
 - 🎹 Toco teclado
-- 🏊🏼‍♂ esporte - natação
+- 🏊🏼‍♂ Pratico esporte - natação
 - 👨‍👨‍👦 Amo minha família e viajar com eles!
-- 🖥 Cursos Bootcamp - Digital Innovation One - C# Dotnet
+- 🖥  Cursos Complementares Bootcamp - Digital Innovation One - C# Dotnet
 
 <div align="center">
   <a href="https://github.com/tatianapessofernandes">
@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
     
   
