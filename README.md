@@ -3,11 +3,11 @@
 - 💻 Estudando Engenharia de Software
 - 💻 Amo designer!
 - ✈  Migrando da aviação e designer para tecnologia
-- 🖥  Estagiando na Cast Group - Turma de Formação - Dotnet Fullstack
+- 🖥  Fiz estágio na Cast Group - Turma de Formação - Dotnet C# Fullstack - temporário
 - 🎹 Toco teclado
 - 🏊🏼‍♂ Pratico esporte - natação
 - 👨‍👨‍👦 Amo minha família e viajar com eles!
-- 🖥  Cursos Complementares Bootcamp - Digital Innovation One - C# Dotnet
+- 🖥  Cursos Complementares: Bootcamp - Digital Innovation One - C# Dotnet, Angular, C# Dotnet
 
 <div align="center">
   <a href="https://github.com/tatianapessofernandes">
