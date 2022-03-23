@@ -1,13 +1,13 @@
 ## Olá! Sou Tatiana Pessoa Fernandes!
-- 🖥  Migrando de mecânica aviação para tecnologia!
+- 🖥  Migrando de mecânica de aviação para tecnologia!
 - 💻 Estudando Engenharia de Software
-- 💻 Amo designer!
-- ✈  Migrando da aviação e designer para tecnologia
-- 🖥  Fiz estágio na Cast Group - Turma de Formação - Dotnet C# Fullstack - temporário
+- 💻 Também já trabalhei como Designer - conheca minha página: https://www.instagram.com/tattyarts/
+- 🖥  Turma de Formação - Dotnet C# Fullstack - temporário
+- 🖥  Estagiária em Mobile iOS - NTT Data 
 - 🎹 Toco teclado
 - 🏊🏼‍♂ Pratico esporte - natação
 - 👨‍👨‍👦 Amo minha família e viajar com eles!
-- 🖥  Cursos Complementares: Bootcamp - Digital Innovation One - C# Dotnet, Angular, C# Dotnet
+- 🖥  Cursos Complementares: Bootcamp - Digital Innovation One - C# Dotnet, Angular, C# Dotnet, Alura-formação IOS
 
 <div align="center">
   <a href="https://github.com/tatianapessofernandes">
