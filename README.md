@@ -1,5 +1,5 @@
 ## Olá! Sou Tatiana Pessoa Fernandes!
-- 🖥  Migrando de mecânica de aviação para tecnologia!
+- 🖥  Migrando da aviação para tecnologia!
 - 💻 Estudando Engenharia de Software
 - 💻 Também já trabalhei como Designer - conheca minha página: https://www.instagram.com/tattyarts/
 - 🖥  Turma de Formação - Dotnet C# Fullstack - temporário
