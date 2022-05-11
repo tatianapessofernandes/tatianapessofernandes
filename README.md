@@ -3,7 +3,8 @@
 - 💻 Estudando Engenharia de Software
 - 💻 Também já trabalhei como Designer - conheca minha página: https://www.instagram.com/tattyarts/
 - 🖥  Turma de Formação - Dotnet C# Fullstack - temporário
-- 🖥  Estagiária em Mobile iOS - NTT Data 
+- 🖥  Mobile iOS Developer - NTT Data 
+- 🖥  UI UX Designer - study
 - 🎹 Toco teclado
 - 🏊🏼‍♂ Pratico esporte - natação
 - 👨‍👨‍👦 Amo minha família e viajar com eles!
