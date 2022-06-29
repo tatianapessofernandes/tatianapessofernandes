@@ -1,14 +1,14 @@
 ## Olá! Sou Tatiana Pessoa Fernandes!
 - 🖥  Migrando da aviação para tecnologia!
-- 💻 Estudando Engenharia de Software
-- 💻 Também já trabalhei como Designer - conheca minha página: https://www.instagram.com/tattyarts/
+- 💻  Formada em Administração in Puc Minas e estudante de Engenharia de Software in Uniasselvi
+- 💻  Também trabalho como Designer Freelancer - conheça minha página: https://www.instagram.com/tattyarts/
 - 🖥  Turma de Formação - Dotnet C# Fullstack - temporário
 - 🖥  Mobile iOS Developer - NTT Data 
 - 🖥  UI UX Designer - study
-- 🎹 Toco teclado
-- 🏊🏼‍♂ Pratico esporte - natação
-- 👨‍👨‍👦 Amo minha família e viajar com eles!
-- 🖥  Cursos Complementares: Bootcamp - Digital Innovation One - C# Dotnet, Angular, C# Dotnet, Alura-formação IOS
+- 🎹  Toco teclado
+- 🏊🏼‍♂  Pratico esporte - natação
+- 👨‍👨‍👦  Amo Deus, minha família e viajar com eles!
+- 🖥  Cursos Complementares: Bootcamp - Digital Innovation One - C# Dotnet, Angular, C# Dotnet, Alura-formação iOS, Beca iOS in NTT Data
 
 <div align="center">
   <a href="https://github.com/tatianapessofernandes">
